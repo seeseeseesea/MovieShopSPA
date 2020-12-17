@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "MovieShopSPA"
+  "defaultProject": "MovieShopSPA",
+  "cli": {
+    "analytics": "2982eda2-1c14-428b-b16f-e86445174380"
+  }
 }
